@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**theobitt/theobitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 💜 Olá, meu nome é <strong>{Theo Bittencourt!}!</strong>
+###  Olá, meu nome é <strong>Theo Bittencourt!</strong>
 
 > Estou trabalhando na área desde setembro de 2022, e antes disso, participei do programa Residência em TIC/Software do Serratec, onde aprendi e aprimorei minhas habilidades para me tornar um dev full stack. Após a conclusão do curso, fui chamado para integrar a Alterdata no setor LABS.
 
@@ -24,7 +19,6 @@
 
 
 
-
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
@@ -38,9 +32,13 @@ Aqui você encontrará minhas experiências de trabalho:
 **Full Stack Software Developer** \
 [**Alterdata**](https://www.alterdata.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `JavaScript`, `CSS`, `HTML`, `VueJS`\
-Projetos em destaque: [OpenSpace](https://www.spacex.com/), [AlterUp](https://pt.wikipedia.org/wiki/Marte_(planeta)),
-[AlterGames](https://pt.wikipedia.org/wiki/Marte_(planeta))
+Projetos em destaque: OpenSpace, AlterUp, AlterGames
 <br/>
 
 
 Por favor, me encontre no [LinkedIn](https://www.linkedin.com/in/theobittencourt/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+<!--
+**theobitt/theobitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
