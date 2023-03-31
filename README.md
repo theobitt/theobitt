@@ -20,10 +20,6 @@
 
 
 ---
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theobitt&show_icons=true)
-
 ### Experiência de trabalho
 Aqui você encontrará minhas experiências de trabalho:
 
