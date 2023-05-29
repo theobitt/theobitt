@@ -2,7 +2,7 @@
 
 > Estou trabalhando na área desde setembro de 2022, e antes disso, participei do programa Residência em TIC/Software do Serratec, onde aprendi e aprimorei minhas habilidades para me tornar um dev full stack. Após a conclusão do curso, fui chamado para integrar a Alterdata no setor LABS.
 
-🔭 Até o momento colaborei com os seguintes projetos da Alterdata: AlterGames, AlterUp, Agendamento OpenSpace.
+🔭 Até o momento colaborei com os seguintes projetos da Alterdata: AlterGames, AlterUp, Agendamento OpenSpace e Gestor de Implantação Brasil.
 
 💬 Faço também landing pages e sites single page, se tiver interesse, entre em contato pelo LinkedIn.
 
@@ -30,7 +30,7 @@ Aqui você encontrará minhas experiências de trabalho:
 **Full Stack Software Developer** \
 [**Alterdata**](https://www.alterdata.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `JavaScript`, `CSS`, `HTML`, `VueJS`\
-Projetos em destaque: OpenSpace, AlterUp, AlterGames
+Projetos em destaque: OpenSpace, AlterUp, AlterGames e Gestor de Implantação Brasil.
 <br/>
 
 
