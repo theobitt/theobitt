@@ -2,9 +2,11 @@
 
 > Estou trabalhando na área desde setembro de 2022, e antes disso, participei do programa Residência em TIC/Software do Serratec, onde aprendi e aprimorei minhas habilidades para me tornar um dev full stack. Após a conclusão do curso, fui chamado para integrar a Alterdata no setor LABS.
 
-🔭 Até o momento colaborei com os seguintes projetos da Alterdata: AlterGames, AlterUp, Agendamento OpenSpace e Gestor de Implantação Brasil.
+> Até o setembro de 2022 colaborei com os seguintes projetos da Alterdata: AlterGames, AlterUp, Agendamento OpenSpace e Gestor de Implantação Brasil.
+ > Após 3 meses de experiência no SQA, fui integrado a equipe onde prestamos atendimentos aos 6 sistemas que providenciamos manutenção full cycle.
+  > Atualmente atuo desenvolvendo novas features e resolvendo bugs em sistemas com algumas das seguintes tecnologias presentes: .NET Framework, .NET Core, ASPNET, Windows Forms, Vue JS, Mithril JS, Angular JS, JQuery, POSTGRES SQL. 
 
-💬 Faço também landing pages e sites single page, se tiver interesse, entre em contato pelo LinkedIn.
+> Faço também landing pages e sites single page, se tiver interesse, entre em contato pelo LinkedIn.
 
 ----
 
@@ -23,16 +25,6 @@
 
 ---
 ### Experiência de trabalho
-Aqui você encontrará minhas experiências de trabalho:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://pr1.nicelocal.br.com/AxndvW9V2PnVyRcsLbMnQw/440x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2c7lixLRnOHlwxL8NNiaVu9o2eA1Q2F0geyFHqHBOvumZWCMGro-Y9AhG6BOaAqQ0g"/>](https://www.alterdata.com.br/)
-
-**Full Stack Software Developer** \
-[**Alterdata**](https://www.alterdata.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `JavaScript`, `CSS`, `HTML`, `VueJS`\
-Projetos em destaque: OpenSpace, AlterUp, AlterGames e Gestor de Implantação Brasil.
-<br/>
-
 
 Por favor, me encontre no [LinkedIn](https://www.linkedin.com/in/theobittencourt/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
