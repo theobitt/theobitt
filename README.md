@@ -2,7 +2,7 @@
 
 > Estou trabalhando na área desde setembro de 2022, e antes disso, participei do programa Residência em TIC/Software do Serratec, onde aprendi e aprimorei minhas habilidades para me tornar um dev full stack. Após a conclusão do curso, fui chamado para integrar a Alterdata no setor LABS.
 
-> Até o setembro de 2022 colaborei com os seguintes projetos da Alterdata: AlterGames, AlterUp, Agendamento OpenSpace e Gestor de Implantação Brasil.
+> Até o junho de 2023 colaborei com os seguintes projetos da Alterdata: AlterGames, AlterUp, Agendamento OpenSpace e Gestor de Implantação Brasil.
  > Após 3 meses de experiência no SQA, fui integrado a equipe onde prestamos atendimentos aos 6 sistemas que providenciamos manutenção full cycle.
   > Atualmente atuo desenvolvendo novas features e resolvendo bugs em sistemas com algumas das seguintes tecnologias presentes: .NET Framework, .NET Core, ASPNET, Windows Forms, Vue JS, Mithril JS, Angular JS, JQuery, POSTGRES SQL. 
 
